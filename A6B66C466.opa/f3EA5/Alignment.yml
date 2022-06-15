@@ -1,0 +1,25 @@
+segment_sources:
+  I982DC30C:
+    type: origin_type
+    relation: translation
+    language: en
+  I47BB61B8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  aa5e9a1bbd7844e39b25360cfd01a862:
+    I982DC30C: dcd1aae7c1c2483e9217430955b85308
+    I47BB61B8: 6074d28544a14cee9105f74cddb6e72d
+  34d46bc66e644a8e82f8debd3b49302a:
+    I982DC30C: 67d6c72ae6094c2eb7476c2c74ce3f39
+    I47BB61B8: 1c868a8900924efdb7f5f0cf8d6e11fd
+  45c43fe679464be888a8644b44ede53c:
+    I982DC30C: 60b079eb988e467185e6e38dfecfe15e
+    I47BB61B8: 73652a49c8a24b1898d3369afe887e79
+  c159834301d94ab1b111ddda4722fe0a:
+    I982DC30C: dbd191ae08c146c0906cdaa68e9013d0
+    I47BB61B8: 0a365f27b47840f78890df62ff72ddd7
+  4afcbfd1ba584d59b07e4fbab312029f:
+    I982DC30C: ea9bc6f755be4b0c89aae1cff3f57a63
+    I47BB61B8: ba74436f56ff4f938266f9ffde18c8d1
